@@ -1,0 +1,17 @@
+#element {
+    background-color:#2D85A5;
+    vertical-align: sub;
+    color:white;
+}
+#nav {
+    line-height:100px;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+p {
+    width:850px;
+    float:left;
+    padding:5px;	 	 
+}
